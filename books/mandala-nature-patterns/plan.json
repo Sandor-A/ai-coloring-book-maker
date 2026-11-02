@@ -1,0 +1,114 @@
+{
+  "title": "MANDALA & NATURE|PATTERNS",
+  "age": "adult",
+  "kind": "themed",
+  "character": null,
+  "cover_scene": "A large circular mandala fills the frame, built from concentric rings of petals, teardrop shapes and lace-like filigree, radiating from a central flower bloom. Surrounding the mandala, trailing vines with layered leaves and small blossoms curl into the corners, each leaf textured with fine veins and tiny dot clusters filling remaining spaces.",
+  "pages": [
+    {
+      "key": "01",
+      "letter": null,
+      "caption": "LOTUS MANDALA",
+      "scene": "A symmetrical mandala centered on a blooming lotus flower with layered rounded petals. Surrounding rings alternate between scalloped arcs, teardrop shapes and tiny beaded circles. Between the petals, delicate feather-like fronds curve outward, and the outer border is framed by a repeating wave pattern with small dots filling every gap.",
+      "features_character": false
+    },
+    {
+      "key": "02",
+      "letter": null,
+      "caption": "ROSE GARDEN",
+      "scene": "A dense arrangement of full-blown roses in different stages of bloom, layered with ruffled petals and curling leaves. Thin winding stems connect the flowers, decorated with small thorns and curling tendrils. Tiny five-petaled blossoms and clusters of round berries fill the spaces between the larger roses, covering the whole composition edge to edge.",
+      "features_character": false
+    },
+    {
+      "key": "03",
+      "letter": null,
+      "caption": "OWL OF LEAVES",
+      "scene": "A large owl perched on a gnarled branch, its round body covered in layered feather patterns made of leaf shapes and small swirls. Its wings are folded with detailed feather rows, and its face has two big round eyes surrounded by patterned rings. Small ivy leaves and tiny flowers wind around the branch beneath its feet.",
+      "features_character": false
+    },
+    {
+      "key": "04",
+      "letter": null,
+      "caption": "STARBURST RINGS",
+      "scene": "A radiating mandala built from pointed star shapes layered inside circular bands. Each band contains a different repeating motif: tiny diamonds, looping ribbons, and rows of small petals. The center holds a many-pointed star with a spiral core, and the outer edge is finished with a ring of small triangular flags touching one another.",
+      "features_character": false
+    },
+    {
+      "key": "05",
+      "letter": null,
+      "caption": "PEACOCK PLUME",
+      "scene": "A peacock stands in profile with its tail fully fanned, each long feather ending in a large eye-spot filled with layered swirl patterns. Its body is covered in small scale-like shapes, and its head crest has three curling plumes. Around its feet, low ferns and small round pebbles fill the remaining ground space.",
+      "features_character": false
+    },
+    {
+      "key": "06",
+      "letter": null,
+      "caption": "FOREST CANOPY",
+      "scene": "A layered arrangement of overlapping tree branches forming a dense canopy, each branch lined with detailed leaves of varying shapes, some serrated and some rounded. Small birds rest among the branches, and clusters of berries hang between the leaves. Beams of implied light are suggested by thin radiating lines woven through the leaf clusters.",
+      "features_character": false
+    },
+    {
+      "key": "07",
+      "letter": null,
+      "caption": "SEASHELL SPIRAL",
+      "scene": "A large spiral seashell fills the center, its ridges textured with fine wavy lines and small bumps. Around it, smaller shells, starfish with patterned arms, and curling seaweed fronds are arranged in a balanced ring. Tiny bubbles and small pebbles fill the gaps, completing a full circular composition of ocean treasures.",
+      "features_character": false
+    },
+    {
+      "key": "08",
+      "letter": null,
+      "caption": "BUTTERFLY WINGS",
+      "scene": "A large butterfly with fully spread wings, each wing divided into sections filled with different patterns: swirling paisley shapes, rows of small circles, and layered scallop lines. Its body is segmented and textured, with two long curled antennae. Small flowers and leaf sprigs surround the butterfly, tucked closely around its wingtips.",
+      "features_character": false
+    },
+    {
+      "key": "09",
+      "letter": null,
+      "caption": "CELTIC KNOT",
+      "scene": "An interwoven knotwork pattern forms a large circular design, with ribbon-like bands looping over and under each other in a continuous path. Small trefoil leaves sprout from the corners where the bands cross, and the center holds a compact rosette of overlapping petals. The outer ring is bordered by a chain of small linked ovals.",
+      "features_character": false
+    },
+    {
+      "key": "10",
+      "letter": null,
+      "caption": "SUCCULENT ARRAY",
+      "scene": "A cluster of rounded succulent plants arranged in a circular pot-like grouping, each plant showing tightly layered fleshy leaves with pointed tips arranged in spirals. Small pebbles and tiny star-shaped flowers fill the gaps between the plants, and thin trailing tendrils drape over the edges of the arrangement.",
+      "features_character": false
+    },
+    {
+      "key": "11",
+      "letter": null,
+      "caption": "MOON PHASES",
+      "scene": "A row of circular moon shapes arranged in an arc, each moon showing a different phase with crater textures and soft cratered patterns. Between the moons, small stars with layered points and thin swirling cloud wisps fill the sky-like background, framed by a delicate scalloped border along the bottom.",
+      "features_character": false
+    },
+    {
+      "key": "12",
+      "letter": null,
+      "caption": "DRAGONFLY POND",
+      "scene": "A dragonfly with long segmented body and four large veined wings hovers above a cluster of lily pads. Each lily pad has fine radiating vein lines, and a blooming water lily with layered petals rests among them. Small ripples, drawn as concentric arcs, spread outward across the surrounding water space.",
+      "features_character": false
+    },
+    {
+      "key": "13",
+      "letter": null,
+      "caption": "HONEYCOMB BLOOM",
+      "scene": "A large hexagonal honeycomb pattern fills the background, each cell textured with tiny dots. Emerging from the center, a cluster of layered flowers with rounded petals blooms outward, and two bees with patterned wings rest among the petals. Small leaves tuck between the flowers and the honeycomb edges.",
+      "features_character": false
+    },
+    {
+      "key": "14",
+      "letter": null,
+      "caption": "FEATHER MANDALA",
+      "scene": "A circular mandala built entirely from layered feather shapes radiating outward from a small central spiral. Each feather is lined with fine barb strokes and a curved quill, arranged in overlapping rows of increasing size. The outer ring is finished with a border of tiny curling wisps connecting each feather tip.",
+      "features_character": false
+    },
+    {
+      "key": "15",
+      "letter": null,
+      "caption": "DESERT BLOOM",
+      "scene": "A tall barrel cactus covered in rows of small spines stands beside a blooming prickly pear pad topped with a layered flower. Around their base, small round stones and a scattering of tiny star-shaped desert flowers fill the ground, while thin cracked-earth lines texture the space beneath the plants.",
+      "features_character": false
+    }
+  ]
+}

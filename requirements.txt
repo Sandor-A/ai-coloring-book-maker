@@ -1,0 +1,10 @@
+# Always needed
+pillow
+reportlab
+numpy
+python-dotenv
+
+# Install the ones you use:
+anthropic        # planning and review with Claude
+openai           # drawing with gpt-image
+google-genai     # planning, review and/or drawing with Gemini

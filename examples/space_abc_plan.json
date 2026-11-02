@@ -1,0 +1,165 @@
+{
+  "title": "MY SPACE|ABC",
+  "age": "toddler",
+  "kind": "abc",
+  "character": "a cute cartoon child astronaut in a puffy space suit made of a few large rounded shapes, with a big round helmet and a clear visor showing a chubby round face with two large solid black oval eyes and a simple curved smile, one wide belt band, mitten-style gloves and two chunky rounded boots; the suit is smooth and plain apart from the belt",
+  "cover_scene": "The character rides on top of a chunky cartoon rocket that flies diagonally up toward the upper right, with one arm raised in a cheer. The rocket has a rounded nose cone, one round porthole and three short rounded fins, with three fat teardrop-shaped flames behind it. Around them float one planet with a single wide ring, one crescent moon, and three chubby 5-pointed stars with rounded tips. Every object is big and simple.",
+  "pages": [
+    {
+      "letter": "A",
+      "caption": "ASTRONAUT",
+      "scene": "The character stands facing the viewer, waving with one raised hand. The whole character is shown, from helmet to boots.",
+      "features_character": true
+    },
+    {
+      "letter": "B",
+      "caption": "BLAST-OFF",
+      "scene": "One short, chunky cartoon rocket lifting straight up, in the upper half of the picture. It has a rounded nose cone, one big round porthole with a thick rim, and three short rounded fins. Below it are three thick rounded flame shapes like fat teardrops, and five enormous puffy smoke clouds spreading out to both sides, each cloud one big closed bubble shape. The smoke fills the lower half of the picture.",
+      "features_character": false
+    },
+    {
+      "letter": "C",
+      "caption": "COMET",
+      "scene": "One friendly round comet rock, slightly lumpy like a potato, flying diagonally from the lower left toward the upper right. It has a cute face with two large solid black oval eyes and a simple curved smile, plus two big round craters. Behind it is a long, wide tail made of three thick wavy bands that fan out and taper toward the lower left, each band one large closed shape.",
+      "features_character": false
+    },
+    {
+      "letter": "D",
+      "caption": "DUST",
+      "scene": "One giant astronaut boot print seen from directly above, pressed into a large oval patch of moon ground. The print is a big rounded sole outline with four wide horizontal tread bars inside, each bar big enough to color. Around it, six large round dust puffs float loosely, each a simple circle big enough to color, and nothing smaller. Two big round craters sit at the edge of the ground patch.",
+      "features_character": false
+    },
+    {
+      "letter": "E",
+      "caption": "EARTH",
+      "scene": "One large globe drawn as a perfect big circle, with three or four simple continents shaped like soft rounded blobs. Across the middle is a cute face with two large solid black oval eyes and a wide curved smile. The globe shows only the blob continents and the face.",
+      "features_character": false
+    },
+    {
+      "letter": "F",
+      "caption": "FLAG",
+      "scene": "One flag on a thick pole, planted in a wide, shallow moon crater. The flag is a large rectangle with a gentle wave and one big 5-pointed star in its middle. The pole is thick like a tube, with a round ball on top. The crater is a wide rounded bowl shape at the bottom of the picture, with two big round rocks beside it.",
+      "features_character": false
+    },
+    {
+      "letter": "G",
+      "caption": "GALAXY",
+      "scene": "One big spiral galaxy made from a single thick, wide ribbon that curls inward twice around a large round center circle. The ribbon is a wide closed shape, with wide white gaps between the turns. Around the spiral are five chubby 5-pointed stars with rounded tips, evenly spaced and each big enough to color.",
+      "features_character": false
+    },
+    {
+      "letter": "H",
+      "caption": "HELMET",
+      "scene": "One giant round astronaut helmet seen from the front, filling most of the picture. A large rounded visor that is completely empty and plain white inside, with nothing drawn in it. A thick rim around the visor, a wide ring-shaped collar at the bottom, and one short antenna with a big round ball on top, on one side.",
+      "features_character": false
+    },
+    {
+      "letter": "I",
+      "caption": "ICE",
+      "scene": "A cluster of four big chunky ice crystals, shaped like fat pointed gem columns of different heights, standing on the curved top of a frozen planet. Each crystal has at most one or two simple inner lines. The frozen planet is a large curved arc along the bottom of the picture, with three big rounded snow mounds on it. The space above the crystals is empty.",
+      "features_character": false
+    },
+    {
+      "letter": "J",
+      "caption": "JUPITER",
+      "scene": "One massive round planet filling most of the picture, crossed by three thick, slightly wavy horizontal bands, with one large oval spot sitting inside the lower band. Every band and the spot are wide enough to color. The planet is alone in the picture.",
+      "features_character": false
+    },
+    {
+      "letter": "K",
+      "caption": "KIT",
+      "scene": "One open astronaut toolbox, seen from the front and slightly above: a chunky box with rounded corners, the lid swung open upward, and a big curved handle on top. Sticking out of the box at an angle are two chunky tools: one large wrench and one screwdriver with a fat handle and a thick shaft. The front of the box is plain.",
+      "features_character": false
+    },
+    {
+      "letter": "L",
+      "caption": "LUNAR ROVER",
+      "scene": "One cute, chunky four-wheeled space buggy in a slight three-quarter side view. It has a rounded body like a bathtub, four big wheels drawn as plain thick circles with one big round hub each, one simple seat, one big round headlight, and a round satellite dish on a short thick pole on top.",
+      "features_character": false
+    },
+    {
+      "letter": "M",
+      "caption": "MOON",
+      "scene": "One large sleeping crescent moon, curved like a thick banana, with its inner curve facing right. On the inner edge is a peaceful sleeping face: one closed eye drawn as a thick downward curve and a small gentle smile. On the top tip sits a long floppy nightcap with two wide stripes and a big round pom-pom at the end.",
+      "features_character": false
+    },
+    {
+      "letter": "N",
+      "caption": "NOVA",
+      "scene": "One massive bursting star: a big round core circle surrounded by eight large, rounded, cloud-like burst shapes radiating outward, like a chunky cartoon explosion with soft rounded edges everywhere. Four big round dots float around it.",
+      "features_character": false
+    },
+    {
+      "letter": "O",
+      "caption": "ORBIT",
+      "scene": "One round planet in the middle with a cute face (two large solid black oval eyes and a simple smile) and no other markings. Around it runs one wide oval orbit path, drawn as a thick dashed line with bold, chunky dashes. On the path, one clearly drawn cartoon rocket, about a third of the planet's width, with a round window and a short rounded flame, flies along the orbit. The orbit and the rocket are the main subject.",
+      "features_character": false
+    },
+    {
+      "letter": "P",
+      "caption": "PLANET",
+      "scene": "One big round planet, tilted slightly, with two wide soft stripes, circled by one thick, wide, flat ring that passes in front of the planet at the bottom and behind it at the top. The ring is a single wide band, big enough to color.",
+      "features_character": false
+    },
+    {
+      "letter": "Q",
+      "caption": "QUEST",
+      "scene": "The character, shown from the waist up, holds up a big open treasure-map scroll with both mitten-style gloves. The scroll has rolled ends on the left and right, takes up about half of the picture, and shows only three big 5-pointed stars and one big X.",
+      "features_character": true
+    },
+    {
+      "letter": "R",
+      "caption": "ROCKET",
+      "scene": "One tall cartoon rocket ship standing still on the ground, ready for launch, with nothing coming out of its base. It has a rounded pointed nose cone, a long body with one wide band around it, one large circular window with a thick rim in the upper body, and three chunky fins at the base, two at the sides and one in front. A short flat ground line sits under it.",
+      "features_character": false
+    },
+    {
+      "letter": "S",
+      "caption": "STAR",
+      "scene": "One big classic 5-pointed star with softly rounded tips, filling most of the picture, with a cute face: two large solid black oval eyes and a wide, open, happy smile.",
+      "features_character": false
+    },
+    {
+      "letter": "T",
+      "caption": "TELESCOPE",
+      "scene": "One short, thick cartoon telescope pointing up diagonally toward the upper right. It has a wide main tube and a slightly narrower eyepiece end, with one thick band around the middle. It stands on a simple three-legged tripod with thick, straight legs. One big 5-pointed star sits in the upper right, where the telescope points.",
+      "features_character": false
+    },
+    {
+      "letter": "U",
+      "caption": "UNIVERSE",
+      "scene": "A tight, friendly group of exactly three objects, slightly overlapping: one large round planet with two wide stripes, one medium round moon with two big round craters, and one chunky 5-pointed star with rounded tips. Each object is big and simple, and these three objects are the whole picture.",
+      "features_character": false
+    },
+    {
+      "letter": "V",
+      "caption": "VENUS",
+      "scene": "One large round planet with three big rounded volcano shapes rising from its upper surface, each a soft cone with a round smoke puff on top. The planet's warm glow is drawn as one thick wavy outline ring around the whole planet, with a wide white band between the planet and the ring. That ring is the only sign of the glow.",
+      "features_character": false
+    },
+    {
+      "letter": "W",
+      "caption": "WINDOW",
+      "scene": "One large circular spaceship porthole window filling most of the picture: a thick outer frame ring with eight big round rivets evenly spaced around it. Inside the window is one single large 5-pointed star with rounded tips. The glass around the star is plain white.",
+      "features_character": false
+    },
+    {
+      "letter": "X",
+      "caption": "X-RAY",
+      "scene": "One chubby 5-pointed star with rounded tips in the middle, surrounded by one thick circular halo outline. From the halo, eight thick wavy energy bands radiate outward in all directions like wide ribbons, each band a closed shape big enough to color. The glow is shown only by these outlines.",
+      "features_character": false
+    },
+    {
+      "letter": "Y",
+      "caption": "YELLOW DWARF",
+      "scene": "The sun, drawn as one large round circle with a cute face (two large solid black oval eyes and a wide curved smile), surrounded by ten to twelve chunky, rounded, triangular rays. The sun fills most of the picture.",
+      "features_character": false
+    },
+    {
+      "letter": "Z",
+      "caption": "ZOOM",
+      "scene": "One cute round flying saucer zooming from left to right. It has a wide flat disc with four big round lights along the rim and a clear dome on top, plain white inside. Behind it on the left are three thick horizontal speed lines and two round puff clouds.",
+      "features_character": false
+    }
+  ]
+}

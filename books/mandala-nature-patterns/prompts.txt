@@ -1,0 +1,99 @@
+Prompts for MANDALA & NATURE PATTERNS
+Each prompt makes one square picture. Pages marked [reference] should get the
+character's picture attached as a reference image.
+
+=== cover  ->  art/cover.png
+Adult coloring book illustration, flat black-and-white line art, clean digital drawing on a plain white background, square image.
+A large circular mandala fills the frame, built from concentric rings of petals, teardrop shapes and lace-like filigree, radiating from a central flower bloom. Surrounding the mandala, trailing vines with layered leaves and small blossoms curl into the corners, each leaf textured with fine veins and tiny dot clusters filling remaining spaces.
+Style: fine, elegant black outlines with rich, intricate detail; layered decorative patterns, flowing linework and lots of small enclosed shapes to color, in the style of a calm, relaxing adult coloring page; every shape closed; pure white fills; no shading. The drawing sits in the middle of a plain white square canvas with an even white margin around it.
+Avoid: text, letters, words, numbers, title, signature, border, frame, shading, grey tones, gradients, hatching, texture, reflections, glare, sparkles, background scenery.
+
+=== 01 LOTUS MANDALA  ->  art/01.png
+Adult coloring book illustration, flat black-and-white line art, clean digital drawing on a plain white background, square image.
+A symmetrical mandala centered on a blooming lotus flower with layered rounded petals. Surrounding rings alternate between scalloped arcs, teardrop shapes and tiny beaded circles. Between the petals, delicate feather-like fronds curve outward, and the outer border is framed by a repeating wave pattern with small dots filling every gap.
+Style: fine, elegant black outlines with rich, intricate detail; layered decorative patterns, flowing linework and lots of small enclosed shapes to color, in the style of a calm, relaxing adult coloring page; every shape closed; pure white fills; no shading. The drawing sits in the middle of a plain white square canvas with an even white margin around it.
+Avoid: text, letters, words, numbers, title, signature, border, frame, shading, grey tones, gradients, hatching, texture, reflections, glare, sparkles, background scenery.
+
+=== 02 ROSE GARDEN  ->  art/02.png
+Adult coloring book illustration, flat black-and-white line art, clean digital drawing on a plain white background, square image.
+A dense arrangement of full-blown roses in different stages of bloom, layered with ruffled petals and curling leaves. Thin winding stems connect the flowers, decorated with small thorns and curling tendrils. Tiny five-petaled blossoms and clusters of round berries fill the spaces between the larger roses, covering the whole composition edge to edge.
+Style: fine, elegant black outlines with rich, intricate detail; layered decorative patterns, flowing linework and lots of small enclosed shapes to color, in the style of a calm, relaxing adult coloring page; every shape closed; pure white fills; no shading. The drawing sits in the middle of a plain white square canvas with an even white margin around it.
+Avoid: text, letters, words, numbers, title, signature, border, frame, shading, grey tones, gradients, hatching, texture, reflections, glare, sparkles, background scenery.
+
+=== 03 OWL OF LEAVES  ->  art/03.png
+Adult coloring book illustration, flat black-and-white line art, clean digital drawing on a plain white background, square image.
+A large owl perched on a gnarled branch, its round body covered in layered feather patterns made of leaf shapes and small swirls. Its wings are folded with detailed feather rows, and its face has two big round eyes surrounded by patterned rings. Small ivy leaves and tiny flowers wind around the branch beneath its feet.
+Style: fine, elegant black outlines with rich, intricate detail; layered decorative patterns, flowing linework and lots of small enclosed shapes to color, in the style of a calm, relaxing adult coloring page; every shape closed; pure white fills; no shading. The drawing sits in the middle of a plain white square canvas with an even white margin around it.
+Avoid: text, letters, words, numbers, title, signature, border, frame, shading, grey tones, gradients, hatching, texture, reflections, glare, sparkles, background scenery.
+
+=== 04 STARBURST RINGS  ->  art/04.png
+Adult coloring book illustration, flat black-and-white line art, clean digital drawing on a plain white background, square image.
+A radiating mandala built from pointed star shapes layered inside circular bands. Each band contains a different repeating motif: tiny diamonds, looping ribbons, and rows of small petals. The center holds a many-pointed star with a spiral core, and the outer edge is finished with a ring of small triangular flags touching one another.
+Style: fine, elegant black outlines with rich, intricate detail; layered decorative patterns, flowing linework and lots of small enclosed shapes to color, in the style of a calm, relaxing adult coloring page; every shape closed; pure white fills; no shading. The drawing sits in the middle of a plain white square canvas with an even white margin around it.
+Avoid: text, letters, words, numbers, title, signature, border, frame, shading, grey tones, gradients, hatching, texture, reflections, glare, sparkles, background scenery.
+
+=== 05 PEACOCK PLUME  ->  art/05.png
+Adult coloring book illustration, flat black-and-white line art, clean digital drawing on a plain white background, square image.
+A peacock stands in profile with its tail fully fanned, each long feather ending in a large eye-spot filled with layered swirl patterns. Its body is covered in small scale-like shapes, and its head crest has three curling plumes. Around its feet, low ferns and small round pebbles fill the remaining ground space.
+Style: fine, elegant black outlines with rich, intricate detail; layered decorative patterns, flowing linework and lots of small enclosed shapes to color, in the style of a calm, relaxing adult coloring page; every shape closed; pure white fills; no shading. The drawing sits in the middle of a plain white square canvas with an even white margin around it.
+Avoid: text, letters, words, numbers, title, signature, border, frame, shading, grey tones, gradients, hatching, texture, reflections, glare, sparkles, background scenery.
+
+=== 06 FOREST CANOPY  ->  art/06.png
+Adult coloring book illustration, flat black-and-white line art, clean digital drawing on a plain white background, square image.
+A layered arrangement of overlapping tree branches forming a dense canopy, each branch lined with detailed leaves of varying shapes, some serrated and some rounded. Small birds rest among the branches, and clusters of berries hang between the leaves. Beams of implied light are suggested by thin radiating lines woven through the leaf clusters.
+Style: fine, elegant black outlines with rich, intricate detail; layered decorative patterns, flowing linework and lots of small enclosed shapes to color, in the style of a calm, relaxing adult coloring page; every shape closed; pure white fills; no shading. The drawing sits in the middle of a plain white square canvas with an even white margin around it.
+Avoid: text, letters, words, numbers, title, signature, border, frame, shading, grey tones, gradients, hatching, texture, reflections, glare, sparkles, background scenery.
+
+=== 07 SEASHELL SPIRAL  ->  art/07.png
+Adult coloring book illustration, flat black-and-white line art, clean digital drawing on a plain white background, square image.
+A large spiral seashell fills the center, its ridges textured with fine wavy lines and small bumps. Around it, smaller shells, starfish with patterned arms, and curling seaweed fronds are arranged in a balanced ring. Tiny bubbles and small pebbles fill the gaps, completing a full circular composition of ocean treasures.
+Style: fine, elegant black outlines with rich, intricate detail; layered decorative patterns, flowing linework and lots of small enclosed shapes to color, in the style of a calm, relaxing adult coloring page; every shape closed; pure white fills; no shading. The drawing sits in the middle of a plain white square canvas with an even white margin around it.
+Avoid: text, letters, words, numbers, title, signature, border, frame, shading, grey tones, gradients, hatching, texture, reflections, glare, sparkles, background scenery.
+
+=== 08 BUTTERFLY WINGS  ->  art/08.png
+Adult coloring book illustration, flat black-and-white line art, clean digital drawing on a plain white background, square image.
+A large butterfly with fully spread wings, each wing divided into sections filled with different patterns: swirling paisley shapes, rows of small circles, and layered scallop lines. Its body is segmented and textured, with two long curled antennae. Small flowers and leaf sprigs surround the butterfly, tucked closely around its wingtips.
+Style: fine, elegant black outlines with rich, intricate detail; layered decorative patterns, flowing linework and lots of small enclosed shapes to color, in the style of a calm, relaxing adult coloring page; every shape closed; pure white fills; no shading. The drawing sits in the middle of a plain white square canvas with an even white margin around it.
+Avoid: text, letters, words, numbers, title, signature, border, frame, shading, grey tones, gradients, hatching, texture, reflections, glare, sparkles, background scenery.
+
+=== 09 CELTIC KNOT  ->  art/09.png
+Adult coloring book illustration, flat black-and-white line art, clean digital drawing on a plain white background, square image.
+An interwoven knotwork pattern forms a large circular design, with ribbon-like bands looping over and under each other in a continuous path. Small trefoil leaves sprout from the corners where the bands cross, and the center holds a compact rosette of overlapping petals. The outer ring is bordered by a chain of small linked ovals.
+Style: fine, elegant black outlines with rich, intricate detail; layered decorative patterns, flowing linework and lots of small enclosed shapes to color, in the style of a calm, relaxing adult coloring page; every shape closed; pure white fills; no shading. The drawing sits in the middle of a plain white square canvas with an even white margin around it.
+Avoid: text, letters, words, numbers, title, signature, border, frame, shading, grey tones, gradients, hatching, texture, reflections, glare, sparkles, background scenery.
+
+=== 10 SUCCULENT ARRAY  ->  art/10.png
+Adult coloring book illustration, flat black-and-white line art, clean digital drawing on a plain white background, square image.
+A cluster of rounded succulent plants arranged in a circular pot-like grouping, each plant showing tightly layered fleshy leaves with pointed tips arranged in spirals. Small pebbles and tiny star-shaped flowers fill the gaps between the plants, and thin trailing tendrils drape over the edges of the arrangement.
+Style: fine, elegant black outlines with rich, intricate detail; layered decorative patterns, flowing linework and lots of small enclosed shapes to color, in the style of a calm, relaxing adult coloring page; every shape closed; pure white fills; no shading. The drawing sits in the middle of a plain white square canvas with an even white margin around it.
+Avoid: text, letters, words, numbers, title, signature, border, frame, shading, grey tones, gradients, hatching, texture, reflections, glare, sparkles, background scenery.
+
+=== 11 MOON PHASES  ->  art/11.png
+Adult coloring book illustration, flat black-and-white line art, clean digital drawing on a plain white background, square image.
+A row of circular moon shapes arranged in an arc, each moon showing a different phase with crater textures and soft cratered patterns. Between the moons, small stars with layered points and thin swirling cloud wisps fill the sky-like background, framed by a delicate scalloped border along the bottom.
+Style: fine, elegant black outlines with rich, intricate detail; layered decorative patterns, flowing linework and lots of small enclosed shapes to color, in the style of a calm, relaxing adult coloring page; every shape closed; pure white fills; no shading. The drawing sits in the middle of a plain white square canvas with an even white margin around it.
+Avoid: text, letters, words, numbers, title, signature, border, frame, shading, grey tones, gradients, hatching, texture, reflections, glare, sparkles, background scenery.
+
+=== 12 DRAGONFLY POND  ->  art/12.png
+Adult coloring book illustration, flat black-and-white line art, clean digital drawing on a plain white background, square image.
+A dragonfly with long segmented body and four large veined wings hovers above a cluster of lily pads. Each lily pad has fine radiating vein lines, and a blooming water lily with layered petals rests among them. Small ripples, drawn as concentric arcs, spread outward across the surrounding water space.
+Style: fine, elegant black outlines with rich, intricate detail; layered decorative patterns, flowing linework and lots of small enclosed shapes to color, in the style of a calm, relaxing adult coloring page; every shape closed; pure white fills; no shading. The drawing sits in the middle of a plain white square canvas with an even white margin around it.
+Avoid: text, letters, words, numbers, title, signature, border, frame, shading, grey tones, gradients, hatching, texture, reflections, glare, sparkles, background scenery.
+
+=== 13 HONEYCOMB BLOOM  ->  art/13.png
+Adult coloring book illustration, flat black-and-white line art, clean digital drawing on a plain white background, square image.
+A large hexagonal honeycomb pattern fills the background, each cell textured with tiny dots. Emerging from the center, a cluster of layered flowers with rounded petals blooms outward, and two bees with patterned wings rest among the petals. Small leaves tuck between the flowers and the honeycomb edges.
+Style: fine, elegant black outlines with rich, intricate detail; layered decorative patterns, flowing linework and lots of small enclosed shapes to color, in the style of a calm, relaxing adult coloring page; every shape closed; pure white fills; no shading. The drawing sits in the middle of a plain white square canvas with an even white margin around it.
+Avoid: text, letters, words, numbers, title, signature, border, frame, shading, grey tones, gradients, hatching, texture, reflections, glare, sparkles, background scenery.
+
+=== 14 FEATHER MANDALA  ->  art/14.png
+Adult coloring book illustration, flat black-and-white line art, clean digital drawing on a plain white background, square image.
+A circular mandala built entirely from layered feather shapes radiating outward from a small central spiral. Each feather is lined with fine barb strokes and a curved quill, arranged in overlapping rows of increasing size. The outer ring is finished with a border of tiny curling wisps connecting each feather tip.
+Style: fine, elegant black outlines with rich, intricate detail; layered decorative patterns, flowing linework and lots of small enclosed shapes to color, in the style of a calm, relaxing adult coloring page; every shape closed; pure white fills; no shading. The drawing sits in the middle of a plain white square canvas with an even white margin around it.
+Avoid: text, letters, words, numbers, title, signature, border, frame, shading, grey tones, gradients, hatching, texture, reflections, glare, sparkles, background scenery.
+
+=== 15 DESERT BLOOM  ->  art/15.png
+Adult coloring book illustration, flat black-and-white line art, clean digital drawing on a plain white background, square image.
+A tall barrel cactus covered in rows of small spines stands beside a blooming prickly pear pad topped with a layered flower. Around their base, small round stones and a scattering of tiny star-shaped desert flowers fill the ground, while thin cracked-earth lines texture the space beneath the plants.
+Style: fine, elegant black outlines with rich, intricate detail; layered decorative patterns, flowing linework and lots of small enclosed shapes to color, in the style of a calm, relaxing adult coloring page; every shape closed; pure white fills; no shading. The drawing sits in the middle of a plain white square canvas with an even white margin around it.
+Avoid: text, letters, words, numbers, title, signature, border, frame, shading, grey tones, gradients, hatching, texture, reflections, glare, sparkles, background scenery.
